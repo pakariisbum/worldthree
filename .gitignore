@@ -43,5 +43,4 @@ typechain-types
 secret.txt
 #Hardhat files
 cache
-artifacts
 
