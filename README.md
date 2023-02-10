@@ -6,13 +6,13 @@
 <h1 align="center">🌟 World3 🌍 🌟</h1>
 
 <p align="center"> 
-<a href="https://github.com/pakariisbum/world3/blob/master/LICENSE" title="License">
+<a href="https://github.com/pakariisbum/worldthree/blob/master/LICENSE" title="License">
 <img src="https://img.shields.io/github/license/pakariisbum/world3" alt="world3"/>
 </a>
-<a href="https://github.com/pakariisbum/world3/fork" title="Forks">
+<a href="https://github.com/pakariisbum/worldthree/fork" title="Forks">
 <img src="https://img.shields.io/github/forks/pakariisbum/world3" alt="world3 Forks"/>
 </a>
-<a href="https://github.com/pakariisbum/world3" title="Stars">
+<a href="https://github.com/pakariisbum/worldthree" title="Stars">
 <img src="https://img.shields.io/github/stars/pakariisbum/world3" alt="world3 Stars"/>
 </a>
 <a href="https://img.shields.io/github/stars/pakariisbum/world3/issues" title="Issues">
@@ -26,13 +26,13 @@
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://youtu.be/Omhoy1e5pNg" title="">🖥️ Video</a>
+    <a href="https://www.youtube.com/watch?v=P0ydk-wvisM" title="">🖥️ Video</a>
     .
-    <a href="https://world3s.netlify.app/" title="">🔗 Website</a>
+    <a href="https://worldthree.netlify.app/" title="">🔗 Website</a>
     ·
-    <a href="https://github.com/pakariisbum/world3" title="">📂 Repo</a>
+    <a href="https://github.com/pakariisbum/worldthree" title="">📂 Repo</a>
     ·
-    <a href="https://github.com/pakariisbum/world3" title="🐛Report Bug/🎊Request Feature">🚀 Got Issue</a>
+    <a href="https://github.com/pakariisbum/worldthree" title="🐛Report Bug/🎊Request Feature">🚀 Got Issue</a>
 </p>
 
 ## 💪 Motivation
@@ -68,7 +68,7 @@ Follow the steps below to get started with web3.
 1. Clone the repository
 
 ```Bash
-git clone https://github.com/pakariisbum/world3
+git clone https://github.com/pakariisbum/worldthree
 ```
 
 2. Change the working directory
