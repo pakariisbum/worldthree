@@ -201,7 +201,8 @@ const AuthProvider = ({ children }) => {
   async function loadContracts() {
     /* create a generic provider and query for unsold market items */
     // const provider = new ethers.providers.JsonRpcProvider("http://localhost:8545");
-    const provider = new ethers.providers.JsonRpcProvider('https://rpc-mumbai.maticvigil.com');
+    // const provider = new ethers.providers.JsonRpcProvider('https://rpc-mumbai.maticvigil.com');
+    const provider = new ethers.providers.JsonRpcProvider('https://rpc.testnet.mantle.xyz');
     // const provider = new ethers.providers.JsonRpcProvider('https://rpc-mumbai.maticvigil.com');
       // 'https://rpc-.maticvigil.com/'
     // 'https://rpc-mumbai.matic.today'
