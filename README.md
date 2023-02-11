@@ -115,8 +115,9 @@ module.exports = {
     hardhat: {
       chainId: 1337,
     },
-    matic: {
-      url: 'https://polygon-mumbai.g.alchemy.com/v2/{projectId}',
+    mantel: {
+      url: "https://rpc.testnet.mantle.xyz",
+      allowUnlimitedContractSize: true,
       accounts: [privateKey],
     },
   },
@@ -172,11 +173,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## 🧑🏻 Author
 
-**Pakari Isbum**
+**Sensurus Irupus**
 
-- 🌌 [Profile](https://github.com/pakariisbum "Pakari Isbum")
+- 🌌 [Profile](https://github.com/sensurusirupus "Pakari Isbum")
 
-- 🏮 [Email](pakariisbum@gmail.com "Hi!")
+- 🏮 [Email](sensurusirupus@gmail.com "Hi!")
 
 <h2 align="center">🤝 Support</h2>
 
